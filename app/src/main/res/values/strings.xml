@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">btvn3_codeFresher</string>
+    <string name="textview">TextView</string>
+    <string name="ng_k_t_i_kho_n">Đăng ký tài khoản</string>
+    <string name="t_n_ng_nh_p">Tên đăng nhập</string>
+    <string name="nh_p_m_t_kh_u">Nhập mật khẩu</string>
+    <string name="nh_p_l_i_m_t_kh_u">Nhập lại mật khẩu</string>
+    <string name="nh_p_th_ng_tin_kh_c_h_ng">Nhập thông tin khác hàng</string>
+</resources>
